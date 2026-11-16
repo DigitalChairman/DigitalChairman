@@ -18,7 +18,5 @@ jobs:Pull every pull file and repo with a redsign
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "W
-e
-Welcome To SiA' Supasecurity Ai Twin first issued"
+        issue-message: "Welcome Look for it  SiA' Supasecurity Ai's Twin first issued"
         pr-message: "Message that will be displayed on users' first pull request"
